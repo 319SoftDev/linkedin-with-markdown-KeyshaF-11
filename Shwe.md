@@ -3,7 +3,7 @@
 
 
 # About
-> My name is Shwe Yee and I am currentlt in the graduting class of 2026. I am a rather a creative person and I like drawing and animating the things I am passionate about. I am a computer science major and I know html and phyton. I am very fond of arts and crafts, I also like collecting stickers. 
+> My name is Shwe Yee and I am currently in the graduting class of 2026. I am rather a creative person and I like drawing and animating the things I am passionate about. I am a computer science major and I know HTML and Python. I am very fond of arts and crafts, I also like collecting stickers. 
 
 
 
@@ -26,7 +26,7 @@ _Cohort member that engaged in community-centered park maintenance work such as_
 _Current student at HSFI majoring in Software Develkopment_
 
 
-**LaGuardia Community Collge**\
+**LaGuardia Community College**\
 _Studied Global Politics_
 
 # Skills
